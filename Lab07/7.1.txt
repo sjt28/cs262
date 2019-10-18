@@ -1,0 +1,17 @@
+Sam Tuit - CS262 - Lab 07
+
+7.1
+
+***Original Schema***
+Player(ID, emailAddress, name)
+PlayerGame(gameID, playerID, score)
+Game(ID, time)
+
+***New Schema***
+Player(ID, emailAddress, name)
+PlayerGame(gameID, playerID, score, cash, location)
+Property(ID, playerID, name, color, price, rent, rent1House, rent2House, rent3House, rent4House, rentHotel, numHouses) [A hotel can be represented by numHouses=5]
+Game(ID, time)
+
+
+
