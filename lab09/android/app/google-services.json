@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480770557271",
+    "firebase_url": "https://cs262-lab09.firebaseio.com",
+    "project_id": "cs262-lab09",
+    "storage_bucket": "cs262-lab09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480770557271:android:79520a3e7f1395c4292a12",
+        "android_client_info": {
+          "package_name": "sjt28.cs262.calvin.edu.lab09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480770557271-hq0t50i44pnu6t2brm1v7reesu8nd3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZf8nUEjvgD9goQ3XwH6Lpi86mpXS7zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480770557271-hq0t50i44pnu6t2brm1v7reesu8nd3n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
