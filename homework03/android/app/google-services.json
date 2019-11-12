@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410506997084",
+    "firebase_url": "https://cs-262-homework03.firebaseio.com",
+    "project_id": "cs-262-homework03",
+    "storage_bucket": "cs-262-homework03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410506997084:android:7e9dffc4c6d2c33f21a599",
+        "android_client_info": {
+          "package_name": "sjt28.cs262.calvin.edu.homework03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410506997084-f38e9tjeo0s92i3ieq65pela36si9eg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyOGJHqBlH4o5X02w3NNeIShhV4XCyzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410506997084-f38e9tjeo0s92i3ieq65pela36si9eg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
